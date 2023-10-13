@@ -72,7 +72,7 @@ Apple Developer Academy @ POSTECH 2th - 알고리즘 안알랴즘
     </td>
     <td align="center">
       <a href="https://solved.ac/tkddyd1126">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tkddyd2580">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tkddyd1126">
       </a>
       <br />
       C++
